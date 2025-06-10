@@ -1,0 +1,5 @@
+Controller\TaskController.class
+Service\TaskService.class
+Models\Tasks.class
+com\app\todoapp\TodoappApplication.class
+Repository\TaskRepository.class
