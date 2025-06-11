@@ -29,5 +29,6 @@ This project allows users to add, view, update, delete, and mark them as done ta
 
 ![{50C6562A-ABAC-4BC8-896C-4598779209A3}](https://github.com/user-attachments/assets/ec24a04c-a7b9-49ab-bfcd-778dbce1d248)
 
-![{C784E596-9218-427C-A349-2D837AF4E4AB}](https://github.com/user-attachments/assets/a1b60ae1-6914-4d63-afed-3ac95fbcd8eb)
+![{83DB8297-213C-43C1-AC2F-2BD1087229EF}](https://github.com/user-attachments/assets/cb4fce05-fa7a-4c99-89cb-0cada5615a16)
+
 
